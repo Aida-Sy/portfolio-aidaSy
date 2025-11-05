@@ -1,5 +1,5 @@
 
-# Portfolio Télécommunications — Aïda Sy
+# Portfolio Télécommunications 
 
 Bienvenue sur mon portfolio regroupant mes principaux projets réalisés à l’Institut Teccart dans le cadre du DEC en Télécommunications et Réseaux.  
 Ces travaux reflètent mes compétences en conception RF, en réseaux IP et en systèmes de communication.
